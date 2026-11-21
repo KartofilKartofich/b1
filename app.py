@@ -40,8 +40,8 @@ def setup_ios_pwa(app_title: str, icon_url: str):
 
 # Вызываем функцию, передавая название и прямую ссылку на PNG-иконку
 setup_ios_pwa(
-    app_title="БИО",
-    icon_url="/app/static/"
+    app_title="BIO",
+    icon_url="/app/static/bio2.jpg"
 )
 
 st.write("Hi")
